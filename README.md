@@ -5,8 +5,10 @@
 Startery (Windows/macOS) + kod do lekcji.
 
 ## Starter (1-klik)
-- Windows: `starter/odoo19_starter.zip`
-- macOS: `starter/odoo19_starter_mac.zip`
+- Windows: [`starter/odoo19_starter.zip`](starter/odoo19_starter.zip)  
+  SHA256: `b0e2643bb58dcb19b22060d39af58c4cd4294acda2b75dfc735eb9e38bcdeb29`
+- macOS: [`starter/odoo19_starter_mac.zip`](starter/odoo19_starter_mac.zip)  
+  SHA256: `4ff71030e6a28b0614b3f95d6d26442f0a72b962f044b52c0caabb9d2594eab3`
 
 ## Struktura
 starter/        # ZIP-y do instalacji
